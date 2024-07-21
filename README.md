@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @janhavichauhan
 
+![Girl Coding](https://media.tenor.com/tLQNV1ygf6gAAAAj/mimibubu.gif)
+
 ## 👀 I’m interested in ...
 - 🌐 Web development
 - 🎨 UI/UX design
@@ -69,7 +71,7 @@ I am a Full Stack Web Developer with a strong front-end focus, creating visually
 
 ### Other Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Designing Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -77,7 +79,9 @@ I am a Full Stack Web Developer with a strong front-end focus, creating visually
 
 ### Media Management
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-FF5757?style=for-the-badge&logo=multer&logoColor=white)
+
+### File Handling
+![Multer](https://img.shields.io/badge/Multer-FFA500?style=for-the-badge&logo=multer&logoColor=white)
 
 ### Build Tools
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -90,23 +94,23 @@ I am a Full Stack Web Developer with a strong front-end focus, creating visually
 
 ### Professional Experience
 
-#### 👩‍💼 Curious Ecosystem (Jan 2024 – Jun 2024)
+#### Curious Ecosystem (Jan 2024 – Jun 2024)
 **Full-Stack Web Developer, UI-UX Designer, and Management Lead**
 
 - 🌟 Leadership Development
-- 🧑‍🤝‍🧑 Team Management
+- 👥 Team Management
 - 🌐 Community Engagement
 - 📈 Improved Technical Skills
 - 🏆 Awarded a positive experience letter for outstanding performance
 - 🎨 Created UI-UX Design for Curious Connect (GSSoC-24)
   - Design was well-received and approved under tight deadlines (within an hour)
 
-#### 🎓 UI-UX Designer at HackerEarth (College Club)
-- 💡 Assisted peers with design challenges
-- 🛠️ Organized tech events focused on user experience and interface design
+#### UI-UX Designer at HackerEarth (College Club)
+- 🌟 Assisted peers with design challenges
+- 🎉 Organized tech events focused on user experience and interface design
 
-#### 🌍 UI-UX Designer at NGO (Join the Dots)
-- 🌟 Contributed to impactful design projects for social causes
+#### UI-UX Designer at NGO (Join the Dots)
+- 🤝 Contributed to impactful design projects for social causes
 
 ---
 
