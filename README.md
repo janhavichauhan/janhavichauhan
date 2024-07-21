@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @janhavichauhan
 
 ![Girl Coding](https://media.tenor.com/tLQNV1ygf6gAAAAj/mimibubu.gif)
+![Girl Coding](https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif)
 
 ## 👀 I’m interested in ...
 - 🌐 Web development
