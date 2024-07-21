@@ -87,10 +87,12 @@ I am a Full Stack Web Developer with a strong front-end focus, creating visually
 
 
 ### Media Management
-- Cloudinary
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
 
 ### File Handling
-- Multer
+![Multer](https://img.shields.io/badge/Multer-FF5757?style=for-the-badge&logo=multer&logoColor=white)
+
 
 ### Build Tools
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
