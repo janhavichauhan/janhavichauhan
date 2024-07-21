@@ -2,6 +2,8 @@
 
 ![Girl Coding](https://media.tenor.com/tLQNV1ygf6gAAAAj/mimibubu.gif)
 ![Girl Coding](https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif)
+![Girl Coding](https://media.tenor.com/PnMX9-9GDMEAAAAj/work-computer.gif)
+
 
 ## 👀 I’m interested in ...
 - 🌐 Web development
