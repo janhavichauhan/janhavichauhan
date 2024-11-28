@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @janhavichauhan
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
 
 
@@ -20,8 +20,9 @@
 - 🌟 Community-driven initiatives
 
 ## 📫 How to reach me ...
-  <a href="https://www.linkedin.com/in/janhavi-chauhan-972305291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi-chauhan-linkedin" height="30" width="40" /></a>
-  [Email](mailto:chauhanjanhavi45@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/janhavi-chauhan-972305291/)
+[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:chauhanjanhavi45@gmail.com) 
 
 ## 😄 Pronouns: ...
 - She/Her
