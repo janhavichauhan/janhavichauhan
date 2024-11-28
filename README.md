@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @janhavichauhan
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+
+![Banner](https://www.shutterstock.com/image-vector/leadership-banner-web-icon-business-260nw-1126527452.jpg)
+
+
 
 
 
