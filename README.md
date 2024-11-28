@@ -21,8 +21,8 @@
 
 ## 📫 How to reach me ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/janhavi-chauhan-972305291/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:chauhanjanhavi45@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-janhavichauhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/janhavi-chauhan-972305291/)
+[![Gmail Badge](https://img.shields.io/badge/-chauhanjanhavi45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:chauhanjanhavi45@gmail.com) 
 
 ## 😄 Pronouns: ...
 - She/Her
