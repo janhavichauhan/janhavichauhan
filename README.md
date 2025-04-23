@@ -82,6 +82,9 @@ I am a Full Stack Web Developer with a strong front-end focus, creating visually
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+### Automation Tool 
+![Cypress](https://img.shields.io/badge/-Cypress-%23E0E4E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
 ### Media Management
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
